@@ -1,0 +1,21 @@
+# Backend Dependencies
+# Flask or FastAPI (choose one)
+# flask==2.3.0
+# fastapi==0.104.0
+# uvicorn==0.24.0
+
+# Database
+# sqlalchemy==2.0.0
+# psycopg2-binary==2.9.0
+
+# API & Serialization
+# pydantic==2.0.0
+# python-dotenv==1.0.0
+
+# Authentication
+# python-jose==3.3.0
+# passlib==1.7.4
+
+# Testing
+# pytest==7.4.0
+# pytest-cov==4.1.0
